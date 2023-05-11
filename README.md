@@ -8,7 +8,7 @@ Heart Disease Prediction is the application of science and technology to predict
 2. [System Requirements](2-system-requirements.md)
 3. [Design/Implementation](3-design-implementation.md)
 4. [Understanding Code](4-understanding-code.md)
-5. Code for **[Heart Disease Prediction]()**
+5. Code for **[Heart Disease Prediction](#project-presentation)**
 6. [Testing / Result and Analysis](6-testing-result-analysis.md)
 7. [Conclusion and Future Enhancement](7-conclusion-future-enhance.md)
 
@@ -16,9 +16,7 @@ Heart Disease Prediction is the application of science and technology to predict
 
 ## Project Presentation
 
-<!-- <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.your_website/file_name.pptx]' width='100%' height='600px' frameborder='0'> -->
-
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[]' width='100%' height='600px' frameborder='0'>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzTlTyuEVsjXmaM2khfVSOlsVxAQIHx3WZh2SCxM80845UsXJ9A05NRNad5cg0OA/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Reference
